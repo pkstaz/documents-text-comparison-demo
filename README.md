@@ -405,12 +405,9 @@ Este proyecto está bajo la licencia MIT. Ver `LICENSE` para más detalles.
 ### **Documentación**
 - 📖 [Guía de Usuario](docs/user_guide.md)
 - 🔧 [Documentación API](docs/api_docs.md)
-- 🎥 [Videos Tutoriales](https://youtube.com/playlist)
 
 ### **Comunidad**
-- 💬 [Discord](https://discord.gg/tu-servidor)
-- 🐦 [Twitter](https://twitter.com/tu-cuenta)
-- 📧 [Email](mailto:soporte@tu-proyecto.com)
+- 📧 [Email](mailto:cestay@redhat.com)
 
 ### **Reportar Bugs**
 1. Crear issue en GitHub
